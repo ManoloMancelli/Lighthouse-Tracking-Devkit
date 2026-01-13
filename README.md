@@ -11,3 +11,4 @@ IR Sensor flex PCB is modified for testing out various sensor constellations.
 - #### [Changelog](/Docs/Changelogs/V1/V1.md)
 - #### [Firmware]()
 - #### [STL Files]()
+- #### [Very importing Findings](/Docs/Very%20Importand%20Findings.md)
