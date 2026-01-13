@@ -2,6 +2,8 @@
 Trying to build a DiY Lighthouse Tracking Devkit for SteamVR
 
 # V1 "Cactus" - WiP
+![1](/IMG/v1.jpeg)
+
 A Vive Tracker converted into Lighthouse Tracking Devkit.
 
 It uses all of the official components like main PCB, sensors and battery.
