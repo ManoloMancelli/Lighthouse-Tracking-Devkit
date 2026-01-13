@@ -1,2 +1,3 @@
-# Lighthouse-Tracking-Devkit
-DiY SteamVR Lighthouse Tracking Devkit
+# SteamVR Lighthouse Tracking Devkit
+
+## V1 
