@@ -9,3 +9,6 @@ This is especially noticable in VR Headsets as those will fail to boot into VR.
 Lighthouse Tracked Device need semi-transparent covers over the IR Sensors.
 
 Without proper covers, there will be too much interference and tracking will fail.
+
+- #### IR Sensors are 850nm
+This means that direct sunlight or even heat from a radiator will cause them to not work as intended
